@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ZendSkeletonApplication
 =======================
 
@@ -75,3 +76,9 @@ project and you should be ready to go! It should look something like below:
             Allow from all
         </Directory>
     </VirtualHost>
+=======
+apptest
+=======
+
+app testing
+>>>>>>> c953460353c30d6facc07f5ff6e132b8bcc53890
